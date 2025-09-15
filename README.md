@@ -127,7 +127,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) file for 
 
 ## Contact
 
-Created and maintained by Vipul.  
 GitHub: [vipul1999](https://github.com/vipul1999)
 
 Feel free to open issues or discuss new features.
