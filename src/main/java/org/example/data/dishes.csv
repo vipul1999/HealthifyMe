@@ -1,0 +1,174 @@
+name,calories,allergens,protein_g,fiber_g,carbs_g,sodium_mg,meal_type,cuisine,is_vegetarian,is_vegan,availability_regions
+Oatmeal Bowl,350,gluten,10,7,45,150,breakfast,American,true,true,"North America;Europe"
+Paneer Salad,320,dairy,18,5,15,200,lunch,Indian,true,false,"India;Europe"
+Lentil Soup,280,0,12,9,35,100,dinner,Mediterranean,true,true,"Europe;Mediterranean"
+Chickpea Wrap,390,gluten,14,6,40,300,lunch,Middle Eastern,true,true,"Middle East;Europe"
+Fruit Yogurt,180,dairy,6,2,20,80,snack,European,true,false,"Europe;North America"
+Tofu Stir-fry,340,soy,16,4,22,250,dinner,Asian,true,true,"Asia;North America"
+Quinoa Bowl,300,0,9,4,40,120,lunch,American,true,true,"North America;South America"
+Veggie Omelet,250,egg,11,3,8,170,breakfast,French,true,false,Europe
+Grilled Chicken,420,0,40,0,0,400,dinner,American,false,false,North America
+Salmon Fillet,450,fish,38,0,0,350,dinner,Mediterranean,false,false,"Mediterranean;Europe"
+Greek Salad,220,dairy,8,5,10,150,lunch,Mediterranean,true,false,"Mediterranean;Europe"
+Black Bean Chili,330,0,20,12,35,180,dinner,Mexican,true,true,"North America;South America"
+Almond Butter Toast,290,nuts,8,7,35,200,breakfast,American,true,false,North America
+Sweet Potato,180,0,3,6,40,90,snack,American,true,true,North America
+Caesar Salad,250,"dairy;egg",12,4,8,220,lunch,Italian,false,false,Europe
+Shakshuka,300,egg,14,5,20,190,breakfast,North African,true,false,Africa
+Sushi Roll,270,"fish;gluten",15,3,45,250,lunch,Japanese,false,false,Asia
+Falafel Plate,400,"gluten;sesame",18,8,40,300,dinner,Middle Eastern,true,true,"Middle East;Europe"
+Beef Stir-Fry,450,soy,40,2,15,400,dinner,Asian,false,false,Asia
+Ratatouille,220,0,5,10,25,150,dinner,French,true,true,Europe
+Avocado Toast,320,gluten,8,6,30,220,breakfast,American,true,true,"North America;Europe"
+Miso Soup,90,soy,6,3,8,400,starter,Japanese,true,true,Asia
+Chicken Caesar Wrap,480,"dairy;egg",35,5,45,450,lunch,American,false,false,North America
+Vegetable Stir Fry,300,soy,12,7,35,220,dinner,Asian,true,true,"Asia;North America"
+Beef Tacos,500,gluten,38,4,40,480,dinner,Mexican,false,false,North America
+Pancakes,400,"gluten;egg;dairy",10,2,50,300,breakfast,American,true,false,North America
+Greek Yogurt Parfait,150,dairy,12,3,15,70,snack,European,true,false,"Europe;North America"
+Falafel Salad,350,"gluten;sesame",18,8,30,300,lunch,Middle Eastern,true,true,"Middle East;Europe"
+Shrimp Pad Thai,520,"fish;gluten;peanuts",36,5,45,550,dinner,Thai,false,false,Asia
+Sweet Corn Soup,180,0,5,3,30,90,starter,Chinese,true,true,Asia
+Vegetable Samosa,270,"gluten;nuts",6,5,25,200,snack,Indian,true,true,India
+Eggplant Parmesan,430,"dairy;gluten;egg",28,7,40,420,dinner,Italian,true,false,Europe
+Cauliflower Curry,360,0,10,8,32,280,dinner,Indian,true,true,India
+Shrimp Cocktail,150,fish,20,0,5,220,starter,American,false,false,North America
+Breakfast Burrito,480,"gluten;egg;dairy",26,4,40,520,breakfast,Mexican,false,false,North America
+Vegan Buddha Bowl,400,0,18,10,35,150,lunch,American,true,true,"North America;Europe"
+Mushroom Risotto,380,dairy,14,5,45,340,dinner,Italian,true,false,Europe
+Chicken Shawarma,440,0,35,3,12,330,dinner,Middle Eastern,false,false,Middle East
+Black Bean Burger,370,gluten,20,9,30,290,lunch,American,true,true,North America
+Zucchini Noodles,290,0,12,7,18,150,dinner,Italian,true,true,Europe
+Coconut Curry,400,0,15,6,40,270,dinner,Indian,true,true,India
+Turkey Sandwich,430,"gluten;dairy",32,3,40,450,lunch,American,false,false,North America
+Falafel Wrap,380,"gluten;sesame",18,9,35,310,lunch,Middle Eastern,true,true,Middle East
+Pasta Primavera,420,"gluten;dairy",18,5,50,350,dinner,Italian,true,false,Europe
+Greek Lemon Chicken,450,0,40,2,10,400,dinner,Mediterranean,false,false,"Mediterranean"
+Vegan Lentil Salad,350,0,22,11,35,180,lunch,European,true,true,Europe
+Bruschetta,290,"gluten;dairy",8,4,18,220,starter,Italian,true,false,Europe
+Peanut Butter Banana Smoothie,350,"peanuts;dairy",12,6,45,250,snack,American,true,false,North America
+Minestrone Soup,310,0,13,8,40,170,lunch,Italian,true,true,Europe
+Grilled Vegetables,230,0,6,7,15,120,dinner,American,true,true,North America
+Scrambled Eggs,200,egg,14,0,2,180,breakfast,American,true,false,North America
+Turkey Wrap,380,gluten,28,4,35,420,lunch,American,false,false,North America
+Baked Chicken Thigh,320,0,35,0,0,290,dinner,American,false,false,North America
+Apple Slices,80,0,0,3,20,0,snack,American,true,true,North America
+Tuna Sandwich,340,"fish;gluten",25,3,28,450,lunch,American,false,false,North America
+Egg Fried Rice,380,"egg;soy",12,2,45,380,dinner,Asian,true,false,Asia
+Banana Smoothie,250,0,6,4,48,120,snack,American,true,true,North America
+Grilled Salmon,420,fish,40,0,0,320,dinner,Mediterranean,false,false,"Mediterranean;Europe"
+Rice Bowl,300,0,6,2,58,150,lunch,Asian,true,true,Asia
+Chicken Soup,180,0,20,2,12,400,lunch,American,false,false,North America
+Pork Chops,450,0,42,0,0,380,dinner,American,false,false,North America
+Mixed Nuts,190,nuts,6,3,8,5,snack,American,true,true,North America
+Beef Burger,520,"gluten",35,3,42,650,dinner,American,false,false,North America
+Vegetable Soup,120,0,4,5,18,220,lunch,Mediterranean,true,true,Europe
+Grilled Fish,280,fish,38,0,0,250,dinner,Mediterranean,false,false,"Mediterranean;Europe"
+Chicken Salad,240,0,30,4,8,180,lunch,American,false,false,North America
+Steamed Broccoli,55,0,6,5,11,33,snack,American,true,true,North America
+Lamb Curry,420,0,32,3,15,350,dinner,Indian,false,false,India
+Rice Crackers,110,0,2,1,22,150,snack,Asian,true,true,Asia
+Baked Potato,160,0,4,4,37,8,snack,American,true,true,North America
+Fish Tacos,380,"fish;gluten",28,5,35,480,lunch,Mexican,false,false,North America
+Chicken Wings,250,0,23,0,0,420,snack,American,false,false,North America
+Vegetable Curry,280,0,8,6,35,300,dinner,Indian,true,true,India
+Plain Rice,130,0,3,0,28,0,snack,Asian,true,true,Asia
+Grilled Steak,480,0,45,0,0,350,dinner,American,false,false,North America
+Fruit Salad,120,0,2,4,30,5,snack,American,true,true,North America
+Chicken Curry,380,0,35,4,18,320,dinner,Indian,false,false,India
+Boiled Eggs,140,egg,12,0,1,124,snack,American,true,false,North America
+Turkey Sandwich,360,"gluten",26,4,32,480,lunch,American,false,false,North America
+Vegetable Fried Rice,320,soy,8,3,52,340,dinner,Asian,true,true,Asia
+Protein Shake,180,0,25,2,8,150,snack,American,true,true,North America
+Chicken Breast,230,0,43,0,0,260,dinner,American,false,false,North America
+Roasted Vegetables,140,0,5,6,22,180,snack,Mediterranean,true,true,Europe
+Fish Curry,350,fish,32,3,12,280,dinner,Indian,false,false,India
+Corn Salad,150,0,5,4,28,200,snack,American,true,true,North America
+Beef Stew,320,0,28,4,18,420,dinner,American,false,false,North America
+Green Salad,90,0,3,4,12,80,snack,Mediterranean,true,true,Europe
+Chicken Noodle Soup,200,"gluten",18,2,15,380,lunch,American,false,false,North America
+Baked Beans,240,0,12,12,45,480,snack,American,true,true,North America
+Grilled Chicken Salad,280,0,35,5,10,220,lunch,Mediterranean,false,false,"Mediterranean;Europe"
+Roasted Chicken,340,0,38,0,0,320,dinner,American,false,false,North America
+Cucumber Salad,60,0,2,2,12,150,snack,Mediterranean,true,true,Europe
+Pork Stir Fry,380,soy,32,3,18,400,dinner,Asian,false,false,Asia
+Carrot Sticks,35,0,1,2,8,42,snack,American,true,true,North America
+Turkey Chili,290,0,25,8,22,380,dinner,American,false,false,North America
+Grilled Turkey Breast,350,0,40,0,0,250,dinner,American,false,false,North America
+Beef Meatballs,400,0,35,1,12,350,lunch,European,false,false,Europe
+Roasted Brussels Sprouts,90,0,4,5,14,60,snack,European,true,true,Europe
+Quinoa Chicken Salad,420,0,38,6,25,300,lunch,American,false,false,"North America;Europe"
+Baked Cod,310,fish,35,0,0,220,dinner,European,false,false,Europe
+Sweet Cornbread,200,"gluten;dairy",6,3,30,220,breakfast,American,true,false,North America
+Roast Beef Sandwich,450,gluten,38,4,40,450,lunch,American,false,false,North America
+Brie Cheese Platter,320,dairy,20,0,5,400,snack,European,true,false,Europe
+Grilled Asparagus,50,0,3,4,4,10,snack,European,true,true,Europe
+Chicken Pot Pie,480,"gluten;dairy;egg",35,3,30,500,dinner,American,false,false,North America
+Mussels in White Wine,360,"fish;dairy",32,0,10,280,dinner,European,false,false,Europe
+Cauliflower Mash,110,0,4,5,10,20,snack,American,true,true,"North America;Europe"
+Beef Stroganoff,520,dairy,40,2,30,450,dinner,European,false,false,Europe
+Grilled Salmon Salad,410,"fish;none",38,5,20,300,lunch,American,false,false,"North America;Europe"
+Apple Crisp,300,"dairy;gluten",5,4,45,250,dessert,American,true,false,North America
+Potato Leek Soup,220,dairy,6,4,30,150,lunch,European,true,false,Europe
+Turkey Meatloaf,430,0,40,1,10,350,dinner,American,false,false,North America
+Mediterranean Pasta,480,gluten,14,6,70,380,dinner,European,true,false,Europe
+Vegetable Lasagna,420,"dairy;gluten",18,8,50,420,dinner,European,true,false,Europe
+Pancakes with Maple Syrup,380,"gluten;egg;dairy",10,2,45,300,breakfast,American,true,false,North America
+Rustic Rye Bread,200,gluten,7,5,40,180,snack,European,true,true,Europe
+Shrimp Scampi,430,"fish;dairy",38,0,8,350,dinner,American,false,false,North America
+Greek Yogurt with Honey,180,dairy,12,1,15,90,snack,European,true,false,Europe
+Chicken Caesar Salad,360,"dairy;egg",30,3,12,400,lunch,American,false,false,North America
+Beef and Vegetable Stew,470,0,40,6,20,300,dinner,European,false,false,Europe
+Mashed Sweet Potatoes,200,0,4,5,37,35,snack,American,true,true,"North America;Europe"
+Roast Duck,520,0,45,0,0,390,dinner,European,false,false,Europe
+Grilled Portobello Mushrooms,150,0,8,7,10,20,snack,American,true,true,North America
+Egg Salad Sandwich,410,"gluten;egg;dairy",15,3,30,330,lunch,American,true,false,North America
+Vegetarian Chili,350,0,18,15,40,250,dinner,American,true,true,"North America;Europe"
+Vegan Lentil Soup,320,None,22,15,40,250,dinner,European,true,true,Europe
+Quinoa & Black Bean Salad,350,None,20,12,45,180,lunch,European,true,true,Europe
+Roasted Vegetable Medley,180,None,5,8,22,140,snack,European,true,true,Europe
+Chickpea & Spinach Curry,400,None,18,14,35,270,dinner,Indian,true,true,Europe
+Sweet Potato & Kale Hash,300,None,12,10,38,200,breakfast,European,true,true,Europe
+Stuffed Bell Peppers (Quinoa & Veggies),360,None,15,11,40,230,lunch,European,true,true,Europe
+Cauliflower & Pea Masala,340,None,14,13,30,210,dinner,European,true,true,Europe
+Berry & Oat Smoothie Bowl,270,None,8,9,42,80,breakfast,European,true,true,Europe
+Zucchini Noodles with Pesto (nut-free),280,None,10,7,28,150,lunch,European,true,true,Europe
+Maple Roasted Brussels Sprouts,120,None,4,10,16,90,snack,European,true,true,Europe
+Lentil Soup,280,0,12,9,35,100,dinner,Mediterranean,true,true,"Europe;Mediterranean"
+Vegan Buddha Bowl,400,0,18,10,35,150,lunch,American,true,true,"North America;Europe"
+Ratatouille,220,0,5,10,25,150,dinner,French,true,true,Europe
+Vegan Lentil Salad,350,0,22,11,35,180,lunch,European,true,true,Europe
+Minestrone Soup,310,0,13,8,40,170,lunch,Italian,true,true,Europe
+Roasted Vegetables,140,0,5,6,22,180,snack,Mediterranean,true,true,Europe
+Bruschetta,290,"gluten;dairy",8,4,18,220,starter,Italian,true,false,Europe
+Grilled Asparagus,50,0,3,4,4,10,snack,European,true,true,Europe
+Cauliflower Mash,110,0,4,5,10,20,snack,American,true,true,"North America;Europe"
+Roasted Brussels Sprouts,90,0,4,5,14,60,snack,European,true,true,Europe
+Quinoa & Black Bean Salad,350,0,20,12,45,180,lunch,European,true,true,Europe
+Chickpea & Spinach Curry,400,0,18,14,35,270,dinner,Indian,true,true,Europe
+Sweet Potato & Kale Hash,300,0,12,10,38,200,breakfast,European,true,true,Europe
+Stuffed Bell Peppers,360,0,15,11,40,230,lunch,European,true,true,Europe
+Cauliflower & Pea Masala,340,0,14,13,30,210,dinner,European,true,true,Europe
+Berry & Oat Smoothie Bowl,270,0,8,9,42,80,breakfast,European,true,true,Europe
+Zucchini Noodles with Pesto,280,0,10,7,28,150,lunch,European,true,true,Europe
+Maple Roasted Brussels Sprouts,120,0,4,10,16,90,snack,European,true,true,Europe
+Roasted Vegetable Medley,180,None,5,8,22,140,snack,European,true,true,Europe
+Quinoa & Black Bean Salad,350,None,20,12,45,180,lunch,European,true,true,Europe
+Vegan Lentil Soup,320,None,22,15,40,250,dinner,European,true,true,Europe
+Minestrone Soup,310,None,13,8,40,170,lunch,Italian,true,true,Europe
+Stuffed Bell Peppers (Quinoa & Veggies),360,None,15,11,40,230,lunch,European,true,true,Europe
+Sweet Potato & Kale Hash,300,None,12,10,38,200,breakfast,European,true,true,Europe
+Cauliflower & Pea Masala,340,None,14,13,30,210,dinner,European,true,true,Europe
+Berry & Oat Smoothie Bowl,270,None,8,9,42,80,breakfast,European,true,true,Europe
+Zucchini Noodles with Pesto (nut-free),280,None,10,7,28,150,lunch,European,true,true,Europe
+Maple Roasted Brussels Sprouts,120,None,4,10,16,90,snack,European,true,true,Europe
+Vegan Lentil Soup,320,0,22,15,40,250,dinner,European,true,true,Europe
+Quinoa & Black Bean Salad,350,0,20,12,45,180,lunch,European,true,true,Europe
+Roasted Vegetable Medley,180,0,5,8,22,140,snack,European,true,true,Europe
+Chickpea & Spinach Curry,400,0,18,14,35,270,dinner,European,true,true,Europe
+Sweet Potato & Kale Hash,300,0,12,10,38,200,breakfast,European,true,true,Europe
+Stuffed Bell Peppers,360,0,15,11,40,230,lunch,European,true,true,Europe
+Cauliflower & Pea Masala,340,0,14,13,30,210,dinner,European,true,true,Europe
+Berry & Oat Smoothie Bowl,270,0,8,9,42,80,breakfast,European,true,true,Europe
+Zucchini Noodles with Pesto,280,0,10,7,28,150,lunch,European,true,true,Europe
+Maple Roasted Brussels Sprouts,120,0,4,10,16,90,snack,European,true,true,Europe
