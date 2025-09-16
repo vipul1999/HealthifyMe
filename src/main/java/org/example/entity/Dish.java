@@ -19,4 +19,7 @@ public class Dish {
     private Set<String> availabilityRegions;
     private boolean isVegetarian;
     private boolean isVegan;
+
+    public Dish(String name, String mealType, int calories, int protein, int fiber, int carbs, Set<String> allergens, Set<String> regions, boolean vegetarian, boolean vegan) {
+    }
 }

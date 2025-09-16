@@ -30,7 +30,7 @@ public class MealPlanner {
     }
 
     // Class to separate main meals (unique) and snacks (many)
-    private static class AssignedMeals {
+    static class AssignedMeals {
         Map<String, AssignedDish> mainMeals = new LinkedHashMap<>();
         List<AssignedDish> snacks = new ArrayList<>();
     }
@@ -291,7 +291,7 @@ public class MealPlanner {
         }
     }
 
-    private static class AssignedDish {
+    static class AssignedDish {
         Dish dish;
         String assignedMealType;
         AssignedDish(Dish dish, String mealType) {
