@@ -91,16 +91,6 @@ src/
 6. **HTML Report Generation:** Produces an HTML page per user profile with meal details, rationale, and summary.
 
 ***
-
-## Extending the Project
-
-- Add support for new diets or allergy types.
-- Improve scoring algorithms to factor in additional nutrition metrics.
-- Integrate the system with front-end UI frameworks for real-time interaction.
-- Support other data sources beyond CSV (databases, APIs).
-
-***
-
 ## Testing
 
 - Unit tests validate filtering, scoring, and output correctness.
